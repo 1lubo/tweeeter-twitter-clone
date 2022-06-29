@@ -12,3 +12,9 @@ Gems used in this build
 - [Bulma](https://github.com/joshuajansen/bulma-rails) - for easy CSS.
 - [Simple Form](https://github.com/plataformatec/simple_form) - for simple forms.
 - [Devise](https://github.com/plataformatec/devise) - Effortless user roles and authentication.
+
+---
+
+You can try this out [here](https://serene-harbor-13978.herokuapp.com/)
+
+HEADS UP: Heroku server may need up to 30 sec to fire up a dyno. Be patient! :)
